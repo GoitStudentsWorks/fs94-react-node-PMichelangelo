@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/fs94-react-node-PMichelangelo/static/css/main.5df37ff7.css",
+    "main.js": "/fs94-react-node-PMichelangelo/static/js/main.48d4cc5d.js",
+    "static/css/316.41079cf4.chunk.css": "/fs94-react-node-PMichelangelo/static/css/316.41079cf4.chunk.css",
+    "static/js/316.042b1395.chunk.js": "/fs94-react-node-PMichelangelo/static/js/316.042b1395.chunk.js",
+    "static/css/699.fde17260.chunk.css": "/fs94-react-node-PMichelangelo/static/css/699.fde17260.chunk.css",
+    "static/js/699.fd2ca1c3.chunk.js": "/fs94-react-node-PMichelangelo/static/js/699.fd2ca1c3.chunk.js",
+    "static/css/589.13f6d15e.chunk.css": "/fs94-react-node-PMichelangelo/static/css/589.13f6d15e.chunk.css",
+    "static/js/589.c020a9ac.chunk.js": "/fs94-react-node-PMichelangelo/static/js/589.c020a9ac.chunk.js",
+    "static/css/29.92b5ad5b.chunk.css": "/fs94-react-node-PMichelangelo/static/css/29.92b5ad5b.chunk.css",
+    "static/js/29.14ffcb9d.chunk.js": "/fs94-react-node-PMichelangelo/static/js/29.14ffcb9d.chunk.js",
+    "static/js/143.ff96b51d.chunk.js": "/fs94-react-node-PMichelangelo/static/js/143.ff96b51d.chunk.js",
+    "static/css/44.6310eaba.chunk.css": "/fs94-react-node-PMichelangelo/static/css/44.6310eaba.chunk.css",
+    "static/js/44.678b1c55.chunk.js": "/fs94-react-node-PMichelangelo/static/js/44.678b1c55.chunk.js",
+    "static/media/avatar.png": "/fs94-react-node-PMichelangelo/static/media/avatar.e51576304a934bafb248.png",
+    "static/media/Welcome-2x.png": "/fs94-react-node-PMichelangelo/static/media/Welcome-2x.8c934d5b4532a825319c.png",
+    "static/media/icons.svg": "/fs94-react-node-PMichelangelo/static/media/icons.7d7f1bbc80d60ec6cbbf4908a10bc3bc.svg",
+    "static/media/icon.svg": "/fs94-react-node-PMichelangelo/static/media/icon.d7b82efe74285f6b7f8179a640e23490.svg",
+    "index.html": "/fs94-react-node-PMichelangelo/index.html",
+    "main.5df37ff7.css.map": "/fs94-react-node-PMichelangelo/static/css/main.5df37ff7.css.map",
+    "main.48d4cc5d.js.map": "/fs94-react-node-PMichelangelo/static/js/main.48d4cc5d.js.map",
+    "316.41079cf4.chunk.css.map": "/fs94-react-node-PMichelangelo/static/css/316.41079cf4.chunk.css.map",
+    "316.042b1395.chunk.js.map": "/fs94-react-node-PMichelangelo/static/js/316.042b1395.chunk.js.map",
+    "699.fde17260.chunk.css.map": "/fs94-react-node-PMichelangelo/static/css/699.fde17260.chunk.css.map",
+    "699.fd2ca1c3.chunk.js.map": "/fs94-react-node-PMichelangelo/static/js/699.fd2ca1c3.chunk.js.map",
+    "589.13f6d15e.chunk.css.map": "/fs94-react-node-PMichelangelo/static/css/589.13f6d15e.chunk.css.map",
+    "589.c020a9ac.chunk.js.map": "/fs94-react-node-PMichelangelo/static/js/589.c020a9ac.chunk.js.map",
+    "29.92b5ad5b.chunk.css.map": "/fs94-react-node-PMichelangelo/static/css/29.92b5ad5b.chunk.css.map",
+    "29.14ffcb9d.chunk.js.map": "/fs94-react-node-PMichelangelo/static/js/29.14ffcb9d.chunk.js.map",
+    "143.ff96b51d.chunk.js.map": "/fs94-react-node-PMichelangelo/static/js/143.ff96b51d.chunk.js.map",
+    "44.6310eaba.chunk.css.map": "/fs94-react-node-PMichelangelo/static/css/44.6310eaba.chunk.css.map",
+    "44.678b1c55.chunk.js.map": "/fs94-react-node-PMichelangelo/static/js/44.678b1c55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5df37ff7.css",
+    "static/js/main.48d4cc5d.js"
+  ]
+}
