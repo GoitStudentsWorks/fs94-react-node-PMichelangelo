@@ -2,7 +2,7 @@
   "name": "protask_techteam",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://PMichelangelo.github.io/ProTask_TechTeam/",
+  "homepage": "https://GoitStudentsWorks.github.io/fs94-react-node-PMichelangelo/",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "@reactour/tour": "^3.6.1",
