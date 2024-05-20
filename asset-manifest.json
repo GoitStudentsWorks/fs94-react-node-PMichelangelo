@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs94-react-node-PMichelangelo/static/css/main.5df37ff7.css",
-    "main.js": "/fs94-react-node-PMichelangelo/static/js/main.48d4cc5d.js",
+    "main.js": "/fs94-react-node-PMichelangelo/static/js/main.1f337fba.js",
     "static/css/316.41079cf4.chunk.css": "/fs94-react-node-PMichelangelo/static/css/316.41079cf4.chunk.css",
     "static/js/316.042b1395.chunk.js": "/fs94-react-node-PMichelangelo/static/js/316.042b1395.chunk.js",
     "static/css/699.fde17260.chunk.css": "/fs94-react-node-PMichelangelo/static/css/699.fde17260.chunk.css",
@@ -19,7 +19,7 @@
     "static/media/icon.svg": "/fs94-react-node-PMichelangelo/static/media/icon.d7b82efe74285f6b7f8179a640e23490.svg",
     "index.html": "/fs94-react-node-PMichelangelo/index.html",
     "main.5df37ff7.css.map": "/fs94-react-node-PMichelangelo/static/css/main.5df37ff7.css.map",
-    "main.48d4cc5d.js.map": "/fs94-react-node-PMichelangelo/static/js/main.48d4cc5d.js.map",
+    "main.1f337fba.js.map": "/fs94-react-node-PMichelangelo/static/js/main.1f337fba.js.map",
     "316.41079cf4.chunk.css.map": "/fs94-react-node-PMichelangelo/static/css/316.41079cf4.chunk.css.map",
     "316.042b1395.chunk.js.map": "/fs94-react-node-PMichelangelo/static/js/316.042b1395.chunk.js.map",
     "699.fde17260.chunk.css.map": "/fs94-react-node-PMichelangelo/static/css/699.fde17260.chunk.css.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.5df37ff7.css",
-    "static/js/main.48d4cc5d.js"
+    "static/js/main.1f337fba.js"
   ]
 }
